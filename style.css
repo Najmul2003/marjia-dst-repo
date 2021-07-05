@@ -12,7 +12,7 @@ h2{
     font-size: 30px;
 }
 .orange-color{
-    color: orange;
+    color:rgb(192, 9, 192);
 }
 .flexible-container{
     display: flex;
@@ -27,7 +27,7 @@ h2{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(rgb(119, 0, 255), rgb(255, 71, 200));
     padding: 8px 35px;
     font-size: 15px;
     border-radius: 5px;
