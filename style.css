@@ -47,7 +47,7 @@ h2{
     background-position: right;
 }
 .experience-item{
-    box-shadow:10px 10px 40px gray;
+    box-shadow:10px 10px 40px rgb(235, 8, 8);
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
@@ -60,12 +60,12 @@ h2{
 }
 #web-dev{
     border-left: 7px solid;
-    border-image: linear-gradient(blue, cyan);
+    border-image: linear-gradient(rgb(211, 14, 14), rgb(18, 19, 19));
     border-image-slice: 1;
 }
 #web-ex{
     border-left: 7px solid;
-    border-image: linear-gradient(orange,green); 
+    border-image: linear-gradient(rgb(255, 0, 13),rgb(232, 241, 232)); 
     border-image-slice: 1;
 }
 footer p{
@@ -73,7 +73,7 @@ footer p{
 }
 #himu{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(rgb(150, 0, 187), rgb(238, 238, 238));
     padding: 8px 35px;
     font-size: 15px;
     border-radius: 5px;
